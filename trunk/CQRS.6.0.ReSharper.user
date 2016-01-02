@@ -1,0 +1,159 @@
+<Configuration>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="nUnit" Id="CQRS.Tests.MoneyTests" type="NUnitTestFixtureElement" Project="47C21D2D-2CF5-42C0-90F2-175EC1A5E80B" />
+        <UnitTestElement Provider="nUnit" Id="CQRS.Tests.MoneyTests.AddTest" ParentId="CQRS.Tests.MoneyTests" type="NUnitTestElement" TypeName="CQRS.Tests.MoneyTests" MethodName="AddTest" Project="47C21D2D-2CF5-42C0-90F2-175EC1A5E80B" />
+        <UnitTestElement Provider="nUnit" Id="CQRS.Tests.MoneyTests.MultiplyTest" ParentId="CQRS.Tests.MoneyTests" type="NUnitTestElement" TypeName="CQRS.Tests.MoneyTests" MethodName="MultiplyTest" Project="47C21D2D-2CF5-42C0-90F2-175EC1A5E80B" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Sales/f:ProductType.cs" caret="122" fromTop="8" />
+      <File id="47C21D2D-2CF5-42C0-90F2-175EC1A5E80B/d:Helpers/f:SpecificationExtensions.cs" caret="88" fromTop="4" />
+      <File id="47C21D2D-2CF5-42C0-90F2-175EC1A5E80B/f:MoneyTests.cs" caret="608" fromTop="26" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Infrastructure/f:EntityStatus.cs" caret="9" fromTop="0" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Infrastructure/f:Entity.cs" caret="0" fromTop="0" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Sales/f:Product.cs" caret="254" fromTop="5" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Infrastructure/d:SharedKernel/f:Money.cs" caret="2335" fromTop="25" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Infrastructure/d:SharedKernel/f:Probability.cs" caret="632" fromTop="3" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Infrastructure/f:AggregateRoot.cs" caret="772" fromTop="28" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Infrastructure/d:Repositories/f:CustomerRepository.cs" caret="80" fromTop="0" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:ICustomerRepository.cs" caret="29" fromTop="0" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:CustomerStatus.cs" caret="29" fromTop="0" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:Customer.cs" caret="0" fromTop="0" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/d:Events/f:CustomerStatusChangedEvent.cs" caret="36" fromTop="0" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Commands/f:ChangeCustomerStatusCommand.cs" caret="562" fromTop="19" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Commands/d:Handlers/f:ChangeCustomerStatusCommandHandler.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Infrastructure/d:SharedKernel/f:Probability.cs" caret="1398" fromTop="35" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Infrastructure/d:SharedKernel/f:Probability.cs" caret="201" fromTop="10" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Infrastructure/d:SharedKernel/f:Probability.cs" caret="641" fromTop="3" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:Customer.cs" caret="597" fromTop="13" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:Customer.cs" caret="597" fromTop="19" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:Customer.cs" caret="150" fromTop="8" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:Customer.cs" caret="600" fromTop="30" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:Customer.cs" caret="603" fromTop="24" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/d:Events/f:CustomerStatusChangedEvent.cs" caret="384" fromTop="25" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/d:Events/f:CustomerStatusChangedEvent.cs" caret="384" fromTop="12" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/d:Events/f:CustomerStatusChangedEvent.cs" caret="101" fromTop="10" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/d:Events/f:CustomerStatusChangedEvent.cs" caret="385" fromTop="18" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Infrastructure/f:AggregateRoot.cs" caret="769" fromTop="17" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Infrastructure/f:AggregateRoot.cs" caret="277" fromTop="11" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Infrastructure/f:AggregateRoot.cs" caret="614" fromTop="19" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Infrastructure/f:AggregateRoot.cs" caret="772" fromTop="28" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:Customer.cs" caret="335" fromTop="18" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:CustomerStatus.cs" caret="103" fromTop="5" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:ICustomerRepository.cs" caret="164" fromTop="8" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Infrastructure/d:Repositories/f:CustomerRepository.cs" caret="80" fromTop="0" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:ICustomerRepository.cs" caret="29" fromTop="0" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:CustomerStatus.cs" caret="29" fromTop="0" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/f:Customer.cs" caret="94" fromTop="3" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Domain/d:Events/f:CustomerStatusChangedEvent.cs" caret="36" fromTop="0" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Commands/f:ChangeCustomerStatusCommand.cs" caret="504" fromTop="29" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Commands/f:ChangeCustomerStatusCommand.cs" caret="207" fromTop="11" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Commands/f:ChangeCustomerStatusCommand.cs" caret="611" fromTop="32" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Commands/f:ChangeCustomerStatusCommand.cs" caret="611" fromTop="20" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Commands/f:ChangeCustomerStatusCommand.cs" caret="611" fromTop="20" />
+      <File id="6D97ABA2-0C0F-47B5-B494-E01A6B152376/d:Erp/d:Crm/d:Commands/f:ChangeCustomerStatusCommand.cs" caret="614" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="251" />
+      <Item value="enum" priority="30" />
+      <Item value="prop" priority="127" />
+      <Item value="class" priority="61" />
+      <Item value="Entity`0" priority="31" />
+      <Item value="long" priority="31" />
+      <Item value="DateTime`0" priority="31" />
+      <Item value="ProductType`0" priority="30" />
+      <Item value="string" priority="30" />
+      <Item value="value" priority="63" />
+      <Item value="return" priority="95" />
+      <Item value="new" priority="127" />
+      <Item value="Money" priority="86" />
+      <Item value="m" priority="191" />
+      <Item value="multiplier" priority="63" />
+      <Item value="ArgumentException" priority="29" />
+      <Item value="decimal" priority="95" />
+      <Item value="_value" priority="63" />
+      <Item value="m2" priority="95" />
+      <Item value="CurrencyCode" priority="31" />
+      <Item value="if" priority="31" />
+      <Item value="obj" priority="63" />
+      <Item value="is" priority="31" />
+      <Item value="Money`0" priority="95" />
+      <Item value="false" priority="31" />
+      <Item value="AreCompatibleCurrencies`0" priority="31" />
+      <Item value="this" priority="63" />
+      <Item value="void" priority="63" />
+      <Item value="var" priority="31" />
+      <Item value="double" priority="31" />
+      <Item value="MultiplyBy`0" priority="31" />
+      <Item value="currencyCode" priority="31" />
+      <Item value="Math`0" priority="31" />
+      <Item value="OverflowException`0" priority="31" />
+      <Item value="int" priority="30" />
+      <Item value="InvalidOperationException" priority="29" />
+      <Item value="interface" priority="30" />
+      <Item value="TReturn`0" priority="31" />
+      <Item value="TCommand`0" priority="31" />
+      <Item value="System" priority="31" />
+      <Item value="Void`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRS.Infrastructure.Money">
+      <Item value="_value" priority="108" />
+      <Item value="_currencyCode" priority="26" />
+      <Item value="CurrencyCode" priority="26" />
+      <Item value="ShouldEqual`0" priority="26" />
+      <Item value="MultiplyBy`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Decimal">
+      <Item value="Zero" priority="26" />
+      <Item value="One" priority="45" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Decimal">
+      <Item value="CompareTo`0" priority="26" />
+      <Item value="Equals`0" priority="26" />
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Globalization.CultureInfo">
+      <Item value="CurrentCulture" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Globalization.CultureInfo">
+      <Item value="CompareInfo" priority="26" />
+      <Item value="NumberFormat" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Globalization.NumberFormatInfo">
+      <Item value="CurrencySymbol" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Round`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CQRS.Erp.Crm.Commands.ChangeCustomerStatusCommand">
+      <Item value="Status" priority="27" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
